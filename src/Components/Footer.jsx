@@ -28,7 +28,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li><a href="/admin" className="hover:text-white transition">Eng Mursal Maxamuud salad</a></li>
               <li><a href="/" className="hover:text-white transition">Eng Mohamed Bashir wehliye</a></li>
-              <li><a href="/register" className="hover:text-white transition">Eng Cabdihafiid mohamed </a></li>
+              <li><a href="/register" className="hover:text-white transition">Eng Cabdihafiid mohamed Salaad</a></li>
             </ul>
           </div>
 
