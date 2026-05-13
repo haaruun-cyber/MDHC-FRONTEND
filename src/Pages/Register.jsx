@@ -253,7 +253,7 @@ const Register = () => {
             <div>
               <label className="block text-gray-700 font-semibold mb-2">
                 <FaBook className="inline mr-2 text-green-600" />
-                Qaraan (tiro) • Quran (number)
+                Qaraan (tiro) 
               </label>
               <input
                 type="number"

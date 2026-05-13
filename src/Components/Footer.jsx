@@ -24,20 +24,20 @@ const Footer = () => {
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4 text-emerald-400">Xiriiriyeyaasha</h3>
+            <h3 className="text-lg font-semibold mb-4 text-emerald-400">Maamulka</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="/" className="hover:text-white transition">Bogga Hore</a></li>
-              <li><a href="/register" className="hover:text-white transition">Diiwaan Geli</a></li>
-              <li><a href="/admin" className="hover:text-white transition">Maamulka</a></li>
+              <li><a href="/admin" className="hover:text-white transition">Mursal Maxamuud salad</a></li>
+              <li><a href="/" className="hover:text-white transition">Mohamed Bashir wehliye</a></li>
+              <li><a href="/register" className="hover:text-white transition">Eng Cabdihafiid mohamed </a></li>
             </ul>
           </div>
 
           <div>
             <h3 className="text-lg font-semibold mb-4 text-blue-400">Nala Soo Xiriir</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: info@midowgacalas.so</li>
-              <li>Tel: +252 61 234 5678</li>
-              <li>Cinwaan: Muqdisho, Soomaaliya</li>
+              <li>Email: caqilalan@gmail.com</li>
+              <li>Tel: +252 61 999 1751</li>
+              <li>Cinwaan: Daaru Salaam</li>
             </ul>
           </div>
 

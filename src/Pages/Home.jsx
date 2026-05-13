@@ -116,8 +116,8 @@ const Home = () => {
                 <FaPhone className="text-white text-xl" />
               </div>
               <h3 className="font-semibold text-gray-800 mb-2">Telefoon • Phone</h3>
-              <p className="text-gray-600">+252 61 234 5678</p>
-              <p className="text-gray-600">+252 62 876 5432</p>
+              <p className="text-gray-600">+252 61 222 0299</p>
+              <p className="text-gray-600">+252 61 999 1751</p>
             </div>
 
             <div className="bg-gradient-to-br from-blue-50 to-cyan-50 p-6 rounded-xl shadow-lg hover:shadow-xl transition border border-blue-100">
@@ -125,7 +125,7 @@ const Home = () => {
                 <FaEnvelope className="text-white text-xl" />
               </div>
               <h3 className="font-semibold text-gray-800 mb-2">Email</h3>
-              <p className="text-gray-600">info@midowgacalas.so</p>
+              <p className="text-gray-600">caqilalan@gmail.com</p>
               <p className="text-gray-600">contact@midowgacalas.so</p>
             </div>
 
@@ -134,7 +134,7 @@ const Home = () => {
                 <FaMapMarkerAlt className="text-white text-xl" />
               </div>
               <h3 className="font-semibold text-gray-800 mb-2">Cinwaanka • Location</h3>
-              <p className="text-gray-600">Wadada Warshadaha</p>
+              <p className="text-gray-600">Daaru salaam</p>
               <p className="text-gray-600">Mogadishu, Somalia</p>
             </div>
 
