@@ -26,8 +26,8 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4 text-emerald-400">Maamulka</h3>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="/admin" className="hover:text-white transition">Mursal Maxamuud salad</a></li>
-              <li><a href="/" className="hover:text-white transition">Mohamed Bashir wehliye</a></li>
+              <li><a href="/admin" className="hover:text-white transition">Eng Mursal Maxamuud salad</a></li>
+              <li><a href="/" className="hover:text-white transition">Eng Mohamed Bashir wehliye</a></li>
               <li><a href="/register" className="hover:text-white transition">Eng Cabdihafiid mohamed </a></li>
             </ul>
           </div>
